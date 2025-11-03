@@ -1,0 +1,5 @@
+Suma: 0
+treamCorruptedException: invalid stream header: 320D0A33
+	at java.base/java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:989)
+	at java.base/java.io.ObjectInputStream.<init>(ObjectInputStream.java:416)
+	at llamados.Ejercicio02.main(Ejercicio02.java:17)

@@ -1,0 +1,2 @@
+La cadena introducida no es palíndromo.
+Valor de salida: -1
